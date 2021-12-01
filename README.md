@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hiya there! :D
+
+I'm beProsto, a guy who's really into computers, how they work, how they communicate and possibly everything related to them!
+
+My current points of interest are:
+- Graphics API's
+- Networking
+- Virtual Reality technologies
+
+<iframe mozallowfullscreen="true" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr" src="//v6p9d9t4.ssl.hwcdn.net/html/4675372/index.html" msallowfullscreen="true" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" id="game_drop" allowtransparency="true" frameborder="0"></iframe>
 
 <!--
 **beProsto/beProsto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
