@@ -17,8 +17,8 @@ The languages I'm currently learning:
 - Rust
 
 Learning and playing around with these technologies: :D
-- OpenGL 
 - Vulkan
+- OpenGL 
 - WebXR
 - WebRTC
 - Aaand ofc more :p
