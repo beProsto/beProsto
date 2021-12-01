@@ -7,19 +7,18 @@ My current points of interest are:
 - Networking
 - Virtual Reality technologies
 
-<iframe mozallowfullscreen="true" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr" src="//v6p9d9t4.ssl.hwcdn.net/html/4675372/index.html" msallowfullscreen="true" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" id="game_drop" allowtransparency="true" frameborder="0"></iframe>
+The languages I know well:
+- C++
+- JS
+(Yeah I do realise how weird that looks. Maybe a better understanding might be gained by looking at my projects themselves. I hope so at least. ^^')
 
-<!--
-**beProsto/beProsto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The languages I'm currently learning:
+- Go
+- Rust
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning and playing around with these technologies: :D
+- OpenGL 
+- Vulkan
+- WebXR
+- WebRTC
+- Aaand ofc more :p
