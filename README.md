@@ -13,8 +13,8 @@ The languages I know well:
 (Yeah I do realise how weird that looks. Maybe a better understanding might be gained by looking at my projects themselves. I hope so at least. ^^')
 
 The languages I'm currently learning:
-- Go
 - Rust
+- Go
 
 Learning and playing around with these technologies: :D
 - Vulkan
