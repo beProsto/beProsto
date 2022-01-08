@@ -21,4 +21,5 @@ Learning and playing around with these technologies: :D
 - OpenGL 
 - WebXR
 - WebRTC
+- WebAssembly
 - Aaand ofc more :p
