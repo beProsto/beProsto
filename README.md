@@ -3,9 +3,26 @@
 I'm beProsto, a guy who's really into computers, how they work, how they communicate and possibly everything related to them!
 
 My current points of interest are:
-- Graphics API's
-- Networking
-- Virtual Reality technologies
+<style>
+ul {
+  list-style: none;
+}
+ul li {
+  display: inline-block;
+  min-width: 12rem;
+  text-align: center;
+  border-right: 1px solid black;
+  padding: 0 0.5rem;
+  background: blue;
+  color: white;
+}
+</style>
+
+<ul>
+<li> Graphics API's </li>
+<li> Networking </li>
+<li> Virtual Reality technologies </li>
+</ul>
 
 The languages I know well:
 - C++
