@@ -19,7 +19,13 @@
 
 ###
 
-<p align="left">I'm a C/C++ developer, attracted to any game engine and embedded systems related topics.<br><br>Currently taking my time learning networking, rust, vulkan and web browsers as a platform.</p>
+<p align="left">
+  I'm a C/C++ developer, attracted to any game engine and embedded systems related topics.
+  <br><br>
+  Currently taking my time learning networking, rust, web browsers as a platform, 3D modelling...
+  <br>
+  I may not be doing much regarding programming as of recently because I'm preparing for my finals. ^^ 
+</p>
 
 ###
 
